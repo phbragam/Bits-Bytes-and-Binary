@@ -2,7 +2,7 @@
 
 ## Description
 
-Testing Bitwise operations in Unity.
+Testing Bitwise operations to create doors system in Unity.
 
 ### Unity Version
 
